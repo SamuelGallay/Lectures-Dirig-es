@@ -1,0 +1,14 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+*.bbl
+*.blg
+*.out
+_minted-main
+.ipynb_*
+*.toc
+main-figu*
+*.auxlock
